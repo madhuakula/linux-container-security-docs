@@ -18,4 +18,5 @@
 * [Linux Security Modules](lsm.md)
     - [AppArmor](apparmor.md)
 * [Best Practices](best-practices.md)
+* [License](license.md)
 * [References & Resources](references.md)

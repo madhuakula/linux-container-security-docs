@@ -17,3 +17,7 @@ This book is an attempt to document the security features provided in a modern l
     - cgroups
 4. Security modules
     - Apparmor
+
+## Details
+
+* The repository information/files/scripts/content can be found at [https://github.com/madhuakula/linux-container-security-docs/](https://github.com/madhuakula/linux-container-security-docs/)
