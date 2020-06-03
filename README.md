@@ -1,5 +1,7 @@
 # Introduction
 
+[https://madhuakula.com/content/linux-security-internals/](https://madhuakula.com/content/linux-security-internals/)
+
 This book is an attempt to document the security features provided in a modern linux distribution
 
 # Topics:
